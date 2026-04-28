@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "此岸 - 此岸已渡，彼岸未知",
-  description: "人生是一场选择，你只能走一条路。你选的路是"此岸"，另一条路是"彼岸"。",
+  description: "人生是一场选择，你只能走一条路。你选的路是「此岸」，另一条路是「彼岸」。",
 };
 
 export default function RootLayout({
